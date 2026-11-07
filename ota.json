@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.13.4",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.4/home-v1.13.4.apk",
-  "notes": "Tone UI đồng nhất (MeowTone) + cụm trạng thái Wi-Fi/Giao thông/Thông báo"
+  "versionCode": 61,
+  "versionName": "1.13.5",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.5/home-v1.13.5.apk",
+  "notes": "Bỏ ô tô/thông báo; cụm trạng thái chỉ hiển thị Wi-Fi, tốc độ, online/offline"
 }
