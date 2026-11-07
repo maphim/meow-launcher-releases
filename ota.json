@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.13.5",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.5/home-v1.13.5.apk",
-  "notes": "Bỏ ô tô/thông báo; cụm trạng thái chỉ hiển thị Wi-Fi, tốc độ, online/offline"
+  "versionCode": 62,
+  "versionName": "1.13.6",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.6/home-v1.13.6.apk",
+  "notes": "Nhãn Link 94M (link speed, không phải tốc độ internet) + cân lại chấm trạng thái; WiFi tắt hiện Mất mạng/Offline"
 }
