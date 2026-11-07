@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.13.0",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.0/home-v1.13.0.apk",
-  "notes": "Meow Launcher rename; repo meow-launcher; UI text-only news + lighter scrim"
+  "versionCode": 57,
+  "versionName": "1.13.1",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.1/home-v1.13.1.apk",
+  "notes": "Skin chữ trắng, tin tức Tinhte thật + text reader, game 2048/Rắn native"
 }
