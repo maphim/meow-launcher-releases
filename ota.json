@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.13.1",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.1/home-v1.13.1.apk",
-  "notes": "Skin chữ trắng, tin tức Tinhte thật + text reader, game 2048/Rắn native"
+  "versionCode": 58,
+  "versionName": "1.13.2",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.2/home-v1.13.2.apk",
+  "notes": "Icon dock đồng bộ (glyph trắng, mèo pixel brand), cờ vua native + AI depth 2"
 }
