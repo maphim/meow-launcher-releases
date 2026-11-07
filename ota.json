@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.13.2",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.2/home-v1.13.2.apk",
-  "notes": "Icon dock đồng bộ (glyph trắng, mèo pixel brand), cờ vua native + AI depth 2"
+  "versionCode": 59,
+  "versionName": "1.13.3",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.3/home-v1.13.3.apk",
+  "notes": "Phòng Thời tiết 8 giờ + 7 ngày (Open-Meteo, cache 15 phút); Spec Kit 001-005 converged"
 }
