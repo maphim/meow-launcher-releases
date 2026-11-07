@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.13.3",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.3/home-v1.13.3.apk",
-  "notes": "Phòng Thời tiết 8 giờ + 7 ngày (Open-Meteo, cache 15 phút); Spec Kit 001-005 converged"
+  "versionCode": 60,
+  "versionName": "1.13.4",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.4/home-v1.13.4.apk",
+  "notes": "Tone UI đồng nhất (MeowTone) + cụm trạng thái Wi-Fi/Giao thông/Thông báo"
 }
