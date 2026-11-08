@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "1.13.13",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.13/home-v1.13.13.apk",
-  "notes": "Một icon Wi-Fi cánh cung + badge online, thời tiết lên thanh trên, header gọn hơn, R8 (2,4MB), đứng im 0 frame/6s"
+  "versionCode": 81,
+  "versionName": "1.13.21",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.21/home-v1.13.21.apk",
+  "notes": "Phòng Trò chơi: 7 game, nhân vật & hoạt ảnh vẽ pixel 100%\n\n• 2048 sửa lỗi hướng đi (nước đi thật bị bỏ, nước đi vô nghĩa lại sinh quân) + bàn nảy theo hướng, có nhãn mũi tên\n• 3 game mới: FLAPPY (OK vỗ cánh), XO/CARO 9×9 (5 ô liền), CÁ NGỰA (đổ xúc xắc, bắt quân, về đích)\n• Ô ĂN QUAN: bàn 12 ô, ăn quan 10 điểm, ăn quân thì đi tiếp, chơi với máy\n• Nhân vật pixel: chim (2 khung cánh), rắn (đầu xoay theo hướng), ngựa 4 màu, quân cờ, quân X/O, xúc xắc\n• Bàn cờ co theo màn hình: hết tràn trên TV 1280×720 và điện thoại ngang\n• 62 unit test, lint 0, R8 + shrinkResources"
 }
