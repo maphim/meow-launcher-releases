@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "1.13.7",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.7/home-v1.13.7.apk",
-  "notes": "Popup một chất liệu: nền kính + viền hairline, nút trắng đặc/chữ tối, cyan chỉ là viền chọn; thumbnail 56x32 cho bộ sưu tập hình nền; chữ phụ 70% trắng"
+  "versionCode": 69,
+  "versionName": "1.13.13",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.13/home-v1.13.13.apk",
+  "notes": "Một icon Wi-Fi cánh cung + badge online, thời tiết lên thanh trên, header gọn hơn, R8 (2,4MB), đứng im 0 frame/6s"
 }
