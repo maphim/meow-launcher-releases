@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "1.13.22",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.13.22/home-v1.13.22.apk",
-  "notes": "Sửa cờ vua: bàn cờ co theo màn hình (không còn bị cắt hàng cuối), quân pixel vẽ 76% ô dễ nhìn hơn, ô ăn được khoanh viền thay vì phủ kín quân."
+  "versionCode": 83,
+  "versionName": "1.14.0",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.0/home-v1.14.0.apk",
+  "notes": "Khung lệnh (spec 011): ô \"Tìm\" ở rail · danh sách lệnh xếp hạng (lịch sử + lệnh mặc định), duyệt bằng D-pad, không bắt gõ chữ · bàn phím ảo khi cần · /phim mở Meow Phim kèm câu hỏi · > 5 lệnh hệ thống thật (WiFi, Cài đặt, Thông tin máy, Hình nền, Khởi động lại) · vuốt mép trái để mở trên điện thoại. 92 test, R8 2,42MB."
 }
