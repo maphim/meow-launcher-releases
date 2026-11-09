@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "1.14.2",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.2/home-v1.14.2.apk",
-  "notes": "Nền icon xanh mòng két đậm (#062A33) + đổi tên hiển thị Meow Home TV. Giữ nguyên khung lệnh D-pad, 7 game pixel, thời tiết, tin tức. 96 unit test, lint 0."
+  "versionCode": 86,
+  "versionName": "1.14.3",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.3/home-v1.14.3.apk",
+  "notes": "Bỏ dải tin chạy chữ trên Home; giờ và ngày cùng một dòng (dương lịch trên, âm lịch dưới)."
 }
