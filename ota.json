@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "1.14.5",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.5/home-v1.14.5.apk",
-  "notes": "Popup chuẩn mới: sheet trượt từ đáy (50-68% màn), kính mờ + gradient overlay, gờ kéo, hành động canh phải — áp cho bộ sưu tập hình nền, cập nhật OTA, mic và khung lệnh."
+  "versionCode": 89,
+  "versionName": "1.14.6",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.6/home-v1.14.6.apk",
+  "notes": "Thêm profile hình nền 'Theo thời tiết': ảnh đổi theo mã WMO + giờ (đêm 21h-5h, mưa, tuyết, sương, mây, nắng)."
 }
