@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "1.14.3",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.3/home-v1.14.3.apk",
-  "notes": "Bỏ dải tin chạy chữ trên Home; giờ và ngày cùng một dòng (dương lịch trên, âm lịch dưới)."
+  "versionCode": 87,
+  "versionName": "1.14.4",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.4/home-v1.14.4.apk",
+  "notes": "Bỏ hào quang xanh khi focus icon; thay bằng grain chấm (dot texture) tĩnh như ảnh Meow Phim."
 }
