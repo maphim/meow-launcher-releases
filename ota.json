@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "1.14.6",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.6/home-v1.14.6.apk",
-  "notes": "Thêm profile hình nền 'Theo thời tiết': ảnh đổi theo mã WMO + giờ (đêm 21h-5h, mưa, tuyết, sương, mây, nắng)."
+  "versionCode": 90,
+  "versionName": "1.14.7",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.7/home-v1.14.7.apk",
+  "notes": "Hình nền luôn sắc nét: grain chấm + lớp tối nhẹ chỉ hiện khi focus icon, hết focus là tắt."
 }
