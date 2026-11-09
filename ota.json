@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "1.14.8",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.8/home-v1.14.8.apk",
-  "notes": "Popup bỏ nút ĐÓNG (BACK là đủ); sửa bộ sưu tập hình nền không chọn được mục dưới cùng (LazyColumn + animateScrollToItem)."
+  "versionCode": 92,
+  "versionName": "1.14.9",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.9/home-v1.14.9.apk",
+  "notes": "Cân lại thanh trên: WiFi + thời tiết 1 hàng, dời lên đúng tâm icon rail, chữ rõ hơn — không bọc khung, không animation."
 }
