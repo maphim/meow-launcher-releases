@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "1.14.4",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.4/home-v1.14.4.apk",
-  "notes": "Bỏ hào quang xanh khi focus icon; thay bằng grain chấm (dot texture) tĩnh như ảnh Meow Phim."
+  "versionCode": 88,
+  "versionName": "1.14.5",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.5/home-v1.14.5.apk",
+  "notes": "Popup chuẩn mới: sheet trượt từ đáy (50-68% màn), kính mờ + gradient overlay, gờ kéo, hành động canh phải — áp cho bộ sưu tập hình nền, cập nhật OTA, mic và khung lệnh."
 }
