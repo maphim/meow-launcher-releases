@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "1.14.9",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.14.9/home-v1.14.9.apk",
-  "notes": "Cân lại thanh trên: WiFi + thời tiết 1 hàng, dời lên đúng tâm icon rail, chữ rõ hơn — không bọc khung, không animation."
+  "versionCode": 93,
+  "versionName": "1.15.0",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.15.0/home-v1.15.0.apk",
+  "notes": "Bộ sưu tập hình nền dạng box nằm ngang, ảnh có lớp chấm mịn, badge Đang dùng, D-pad ◀ ▶"
 }
