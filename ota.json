@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "1.15.0",
-  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.15.0/home-v1.15.0.apk",
-  "notes": "Bộ sưu tập hình nền dạng box nằm ngang, ảnh có lớp chấm mịn, badge Đang dùng, D-pad ◀ ▶"
+  "versionCode": 94,
+  "versionName": "1.15.1",
+  "apkUrl": "https://github.com/maphim/meow-launcher-releases/releases/download/v1.15.1/home-v1.15.1.apk",
+  "notes": "GameHeaderV2 + Tetris Brick Game monochrome, layout 2048/Snake tối ưu"
 }
